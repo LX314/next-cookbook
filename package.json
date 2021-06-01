@@ -28,7 +28,7 @@
     "@types/react-virtualized": "^9.21.9",
     "@zeit/next-bundle-analyzer": "^0.1.2",
     "@zeit/next-less": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "clsx": "^1.1.0",
     "cowsay-browser": "^1.1.8",
     "cross-env": "^7.0.2",
